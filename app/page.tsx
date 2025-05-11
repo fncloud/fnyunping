@@ -168,7 +168,7 @@ async function handleRequest(request) {
             <div class="logo-container">
                 <img class="logo" src="https://yunpan.flw8.top/PicGo/fnyun" alt="Logo">
             </div>
-            <h1>Fn Cloud蜂鸟云技术 智能访问</h1>
+            <h1>Fn Cloud蜂鸟云技术 1智能访问</h1>
             <div class="cdn-item">
                 <p>Cloudflare CDN:</p>
                 <div class="latency-bar"><div class="latency-fill" id="cloudflare-latency"></div></div>
